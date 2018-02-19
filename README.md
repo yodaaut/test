@@ -2,5 +2,5 @@
 test
 
 ### list
-[ ] element1
-[ ] element2
+- [ ] element1
+- [ ] element2
